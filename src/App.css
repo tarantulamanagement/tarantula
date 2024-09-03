@@ -1,0 +1,20 @@
+h1 {
+  font-size: calc(0.8rem + 0.6vw);
+}
+
+h2 {
+  font-size: calc(0.8rem + 0.6vw);
+}
+
+h3 {
+  font-size: calc(0.8rem + 0.6vw);
+}
+
+p {
+  font-size: calc(0.8rem + 0.6vw);
+  margin: 2vh 0;
+}
+
+footer {
+  font-size: calc(0.8rem + 0.6vw);
+}
