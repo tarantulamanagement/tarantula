@@ -2,7 +2,7 @@
   "name": "site",
   "version": "1.0",
   "private": true,
-  "homepage": "https://tarantulamanagement.github.io/tarantula/",
+  "homepage": "https://trnt.la",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@react-three/drei": "^9.109.2",

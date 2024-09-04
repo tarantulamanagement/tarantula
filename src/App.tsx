@@ -6,7 +6,7 @@ import './fonts.css';
 
 function App() {
   return (
-    <Router basename="/tarantula">
+    <Router> 
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
