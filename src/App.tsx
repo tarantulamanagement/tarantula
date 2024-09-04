@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/trnt.la" element={<Home />} />
+        <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );
