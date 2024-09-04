@@ -84,7 +84,7 @@ function Home() {
             <h3 style={{ color: "#272727", margin: "2vh 0 0" }}>
                 MILO YIANNOPOULOS IS JOINED BY TWO SILENT PARTNERS IN A TRIUMVIRATE THAT OFFERS UNPRECEDENTED AND UNRIVALLED CONNECTIONS, CAPITAL AND EXPERTISE
             </h3> {/* Subtitle */}
-            <p style={{ color: "#272727", margin: "43vh 0 2vh" }}>
+            <p style={{ color: "#272727", margin: "8vh 0 2vh" }}>
                 PAST AND PRESENT CLIENTS
             </p> {/* Paragraph */}
             <div className="mt-10 mb-20">
