@@ -4,13 +4,12 @@ import Home from "./pages/home";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/tarantula">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );
 }
-
 
 export default App;

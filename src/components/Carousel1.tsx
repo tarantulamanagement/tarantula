@@ -5,9 +5,9 @@ import Frame2 from "../assets/carrousel1/Frame 2.png";
 import Frame3 from "../assets/carrousel1/Frame 3.png";
 import Frame4 from "../assets/carrousel1/Frame 4.png";
 import Frame5 from "../assets/carrousel1/Frame 5.png";
+import Frame18 from "../assets/carrousel1/Frame 5.5.png";
 import Frame6 from "../assets/carrousel1/Frame 6.png";
 import Frame7 from "../assets/carrousel1/Frame 7.png";
-import Frame8 from "../assets/carrousel1/Frame 8.png";
 
 interface CarouselProps {
   duration?: string;
@@ -26,9 +26,9 @@ const Carousel = ({
     { src: Frame3, alt: "Picture Three" },
     { src: Frame4, alt: "Picture Four" },
     { src: Frame5, alt: "Picture Five" },
+    { src: Frame18, alt: "Picture Five Five" },
     { src: Frame6, alt: "Picture Six" },
     { src: Frame7, alt: "Picture Seven" },
-    { src: Frame8, alt: "Picture Eight" },
   ];
 
   useEffect(() => {

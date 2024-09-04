@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Marquee from "../@/components/magicui/marquee";
+import Frame8 from "../assets/carrousel1/Frame 8.png";
 import Frame9 from "../assets/carrousel1/Frame 9.png";
 import Frame10 from "../assets/carrousel1/Frame 10.png";
 import Frame11 from "../assets/carrousel1/Frame 11.png";
@@ -23,6 +24,7 @@ const Carousel = ({
   reverse = false
 }: CarouselProps) => {
   const carouselItems = [
+    { src: Frame8, alt: "Picture One" },
     { src: Frame9, alt: "Picture One" },
     { src: Frame10, alt: "Picture Two" },
     { src: Frame11, alt: "Picture Three" },
