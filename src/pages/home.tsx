@@ -4,19 +4,6 @@ import Carousel from "../components/Carousel1";
 import Companies from "../components/Carousel2";
 import '../App.css';
 
-const BackgroundMusic = () => {
-  return (
-    <audio
-      id="background-music"
-      src="/audio/Tarantula.mp3" // Correct path relative to the public directory
-      autoPlay
-      loop
-      style={{ display: "none" }} // Hide the audio element
-    >
-    </audio>
-  );
-};
-
 function Home() {
     const navigate = useNavigate();
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
