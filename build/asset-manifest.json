@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff62c2d5.css",
-    "main.js": "/static/js/main.f3905df0.js",
-    "static/js/453.adc34edb.chunk.js": "/static/js/453.adc34edb.chunk.js",
-    "static/media/Frame 12.png": "/static/media/Frame 12.725e8e99dc6fc6d438f8.png",
-    "static/media/Frame 4.png": "/static/media/Frame 4.1803fbfc604a487c8c85.png",
-    "static/media/Frame 2.png": "/static/media/Frame 2.7c92a8d0a57da7cd7181.png",
-    "static/media/Frame 10.png": "/static/media/Frame 10.26d411cfdfd8103768e9.png",
-    "static/media/Frame 1.png": "/static/media/Frame 1.d1e124cdf2e730c3bdc0.png",
-    "static/media/Frame 7.png": "/static/media/Frame 7.5d10be64482ce59a3824.png",
-    "static/media/Frame 17.png": "/static/media/Frame 17.80405ebe2e9380ee3faa.png",
-    "static/media/Frame 16.png": "/static/media/Frame 16.39031a3bcf11e7e74dd2.png",
-    "static/media/Frame 15.png": "/static/media/Frame 15.109bf6971ed057fd77fc.png",
-    "index.html": "/index.html",
-    "main.ff62c2d5.css.map": "/static/css/main.ff62c2d5.css.map",
-    "main.f3905df0.js.map": "/static/js/main.f3905df0.js.map",
-    "453.adc34edb.chunk.js.map": "/static/js/453.adc34edb.chunk.js.map"
+    "main.css": "/trnt.la/static/css/main.6cc8d9a3.css",
+    "main.js": "/trnt.la/static/js/main.0175db49.js",
+    "static/js/453.adc34edb.chunk.js": "/trnt.la/static/js/453.adc34edb.chunk.js",
+    "static/media/Frame 12.png": "/trnt.la/static/media/Frame 12.725e8e99dc6fc6d438f8.png",
+    "static/media/Frame 4.png": "/trnt.la/static/media/Frame 4.1803fbfc604a487c8c85.png",
+    "static/media/Frame 2.png": "/trnt.la/static/media/Frame 2.7c92a8d0a57da7cd7181.png",
+    "static/media/Frame 10.png": "/trnt.la/static/media/Frame 10.26d411cfdfd8103768e9.png",
+    "static/media/Frame 1.png": "/trnt.la/static/media/Frame 1.d1e124cdf2e730c3bdc0.png",
+    "static/media/Frame 7.png": "/trnt.la/static/media/Frame 7.5d10be64482ce59a3824.png",
+    "static/media/Frame 17.png": "/trnt.la/static/media/Frame 17.80405ebe2e9380ee3faa.png",
+    "static/media/Frame 16.png": "/trnt.la/static/media/Frame 16.39031a3bcf11e7e74dd2.png",
+    "static/media/Frame 15.png": "/trnt.la/static/media/Frame 15.109bf6971ed057fd77fc.png",
+    "index.html": "/trnt.la/index.html",
+    "main.6cc8d9a3.css.map": "/trnt.la/static/css/main.6cc8d9a3.css.map",
+    "main.0175db49.js.map": "/trnt.la/static/js/main.0175db49.js.map",
+    "453.adc34edb.chunk.js.map": "/trnt.la/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff62c2d5.css",
-    "static/js/main.f3905df0.js"
+    "static/css/main.6cc8d9a3.css",
+    "static/js/main.0175db49.js"
   ]
 }

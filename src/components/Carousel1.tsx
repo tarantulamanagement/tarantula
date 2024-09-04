@@ -78,7 +78,7 @@ const Carousel = ({
                 src={item.src}
                 alt={item.alt}
                 style={{
-                  maxWidth: "40vh", // Ensure images fit within container
+                  maxWidth: "40vh", 
                   height: "auto",
                   margin: "0 30px"
                 }}

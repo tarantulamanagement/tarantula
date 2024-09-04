@@ -2,7 +2,20 @@ import React, { useEffect, useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import Carousel from "../components/Carousel1";
 import Companies from "../components/Carousel2";
-import '../App.css'; 
+import '../App.css';
+
+const BackgroundMusic = () => {
+  return (
+    <audio
+      id="background-music"
+      src="/audio/Tarantula.mp3" // Correct path relative to the public directory
+      autoPlay
+      loop
+      style={{ display: "none" }} // Hide the audio element
+    >
+    </audio>
+  );
+};
 
 function Home() {
     const navigate = useNavigate();
@@ -31,7 +44,6 @@ function Home() {
             behavior: "smooth"
         });
     };
-
 
     const [isVisible, setIsVisible] = useState(false);
 
@@ -73,6 +85,7 @@ function Home() {
                 overflowX: "hidden"
             }}
         >
+
             <h1 style={{ fontWeight: "bold", color: "#272727", margin: "26vh 0 0" }}>
                 TARANTULA
             </h1> {/* Title */}
