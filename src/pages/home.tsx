@@ -1,3 +1,4 @@
+// src/pages/Home.tsx
 import React, { useEffect, useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import Carousel from "../components/Carousel1";
@@ -72,6 +73,7 @@ function Home() {
                 overflowX: "hidden"
             }}
         >
+
 
             <h1 style={{ fontWeight: "bold", color: "#272727", margin: "26vh 0 0" }}>
                 TARANTULA
