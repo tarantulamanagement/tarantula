@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/tarantula/static/css/main.6cc8d9a3.css",
+    "main.css": "/tarantula/static/css/main.9836e115.css",
     "main.js": "/tarantula/static/js/main.e05f3cb6.js",
     "static/js/453.adc34edb.chunk.js": "/tarantula/static/js/453.adc34edb.chunk.js",
+    "static/media/Jost-VariableFont.ttf": "/tarantula/static/media/Jost-VariableFont.34835cd554b7b71732e2.ttf",
     "static/media/Frame 12.png": "/tarantula/static/media/Frame 12.725e8e99dc6fc6d438f8.png",
     "static/media/Frame 4.png": "/tarantula/static/media/Frame 4.1803fbfc604a487c8c85.png",
     "static/media/Frame 2.png": "/tarantula/static/media/Frame 2.7c92a8d0a57da7cd7181.png",
@@ -13,12 +14,12 @@
     "static/media/Frame 16.png": "/tarantula/static/media/Frame 16.39031a3bcf11e7e74dd2.png",
     "static/media/Frame 15.png": "/tarantula/static/media/Frame 15.109bf6971ed057fd77fc.png",
     "index.html": "/tarantula/index.html",
-    "main.6cc8d9a3.css.map": "/tarantula/static/css/main.6cc8d9a3.css.map",
+    "main.9836e115.css.map": "/tarantula/static/css/main.9836e115.css.map",
     "main.e05f3cb6.js.map": "/tarantula/static/js/main.e05f3cb6.js.map",
     "453.adc34edb.chunk.js.map": "/tarantula/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cc8d9a3.css",
+    "static/css/main.9836e115.css",
     "static/js/main.e05f3cb6.js"
   ]
 }
