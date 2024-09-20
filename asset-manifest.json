@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.09154c1b.css",
-    "main.js": "/static/js/main.60a76593.js",
+    "main.css": "/static/css/main.5c29e717.css",
+    "main.js": "/static/js/main.7db3c0fc.js",
     "static/js/453.adc34edb.chunk.js": "/static/js/453.adc34edb.chunk.js",
     "static/media/Jost-VariableFont.ttf": "/static/media/Jost-VariableFont.34835cd554b7b71732e2.ttf",
     "static/media/Frame 12.png": "/static/media/Frame 12.725e8e99dc6fc6d438f8.png",
@@ -10,16 +10,16 @@
     "static/media/Frame 10.png": "/static/media/Frame 10.26d411cfdfd8103768e9.png",
     "static/media/Frame 1.png": "/static/media/Frame 1.d1e124cdf2e730c3bdc0.png",
     "static/media/Frame 7.png": "/static/media/Frame 7.5d10be64482ce59a3824.png",
-    "static/media/Frame 17.png": "/static/media/Frame 17.80405ebe2e9380ee3faa.png",
+    "static/media/Frame 17.png": "/static/media/Frame 17.30981fc7af5cc7adcd79.png",
     "static/media/Frame 16.png": "/static/media/Frame 16.39031a3bcf11e7e74dd2.png",
     "static/media/Frame 15.png": "/static/media/Frame 15.109bf6971ed057fd77fc.png",
     "index.html": "/index.html",
-    "main.09154c1b.css.map": "/static/css/main.09154c1b.css.map",
-    "main.60a76593.js.map": "/static/js/main.60a76593.js.map",
+    "main.5c29e717.css.map": "/static/css/main.5c29e717.css.map",
+    "main.7db3c0fc.js.map": "/static/js/main.7db3c0fc.js.map",
     "453.adc34edb.chunk.js.map": "/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09154c1b.css",
-    "static/js/main.60a76593.js"
+    "static/css/main.5c29e717.css",
+    "static/js/main.7db3c0fc.js"
   ]
 }
